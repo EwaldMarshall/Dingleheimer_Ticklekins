@@ -6,7 +6,7 @@ src = "src"
 title = "Dingleheimer_Ticklekins"
 
 [rust]
-edition = "2024"
+edition = "2021"
 
 [output.html]
 git-repository-url = "https://github.com/EwaldMarshall/Dingleheimer_Ticklekins/tree/main"
