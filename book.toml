@@ -1,12 +1,12 @@
 [book]
-authors = [Marshall Ewald]
+authors = ["Marshall Ewald"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Dingleheimer_Ticklekins"
 
 [rust]
-edition = "2025"
+edition = "2024"
 
 [output.html]
 git-repository-url = "https://github.com/EwaldMarshall/Dingleheimer_Ticklekins/tree/main"
